@@ -1,2 +1,2 @@
 # Manual-testing-project-1
-A project to manually test a food delivery app
+Writing testing checklists for a food delivery application for different testing environments (Google chrome, Firefox, Android) and documenting all the issues, faults and bugs to Jira. Both customer and business point of view.
